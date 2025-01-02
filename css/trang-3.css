@@ -1,0 +1,455 @@
+/* screen - trang-3 */
+
+.trang-3 {
+  align-items: flex-start;
+  background-color: #fff8fb;
+  display: flex;
+  height: 1962px;
+  width: 1440px;
+}
+
+.trang-3 .image-18 {
+  height: 68px;
+  margin-left: 2px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 64px;
+}
+
+.trang-3 .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 54px;
+  margin-top: 84px;
+  min-height: 1792px;
+  width: 1228px;
+}
+
+.trang-3 .overlap-group1 {
+  height: 204px;
+  position: relative;
+  width: 1228px;
+}
+
+.trang-3 .frame-6 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 50px;
+  display: flex;
+  gap: 10px;
+  height: 133px;
+  justify-content: center;
+  left: 26px;
+  padding: 10px;
+  position: absolute;
+  top: 71px;
+  width: 1190px;
+}
+
+.trang-3 .ban-t-chc-bch-ng {
+  color: #a84dfe;
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 709px;
+}
+
+.trang-3 .image-10 {
+  height: 128px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 76px;
+  width: 128px;
+}
+
+.trang-3 .image-11 {
+  height: 128px;
+  left: 1042px;
+  object-fit: cover;
+  position: absolute;
+  top: 72px;
+  width: 128px;
+}
+
+.trang-3 .image-15 {
+  height: 64px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 64px;
+}
+
+.trang-3 .image-16 {
+  height: 76px;
+  left: 1154px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.trang-3 .frame-14 {
+  align-items: center;
+  display: inline-flex;
+  gap: 14px;
+  margin-right: 28.0px;
+  margin-top: 78px;
+  position: relative;
+}
+
+.trang-3 .email-ca-bn-l {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.trang-3 .frame-13 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  width: 860px;
+}
+
+.trang-3 .rectangle-5 {
+  background-color: var(--white);
+  border-radius: 28px;
+  height: 58px;
+  position: relative;
+  width: 840px;
+}
+
+.trang-3 .x {
+  background-color: transparent;
+  border: 0;
+  height: 38px;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: relative;
+  top: 9px;
+  width: 789px;
+}
+
+.trang-3 .x::placeholder {
+  color: #86868699;
+}
+
+.trang-3 .thi-gian-d-kin-tham-gia-ca-bn-l {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 74px;
+  margin-top: 51px;
+  min-height: 38px;
+  min-width: 440px;
+  position: relative;
+  text-align: center;
+}
+
+.trang-3 .frame-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 231px;
+  height: 48px;
+  margin-right: 13.0px;
+  margin-top: 25px;
+  min-width: 1037px;
+}
+
+.trang-3 .frame-8 {
+  align-items: center;
+  display: inline-flex;
+  gap: 18px;
+  position: relative;
+}
+
+.trang-3 .t {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.trang-3 .rectangle {
+  background-color: var(--white);
+  border-radius: 28px;
+  height: 48px;
+  position: relative;
+  width: 346px;
+}
+
+.trang-3 .x10h30 {
+  background-color: transparent;
+  border: 0;
+  height: 38px;
+  left: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: relative;
+  top: 4px;
+  width: 282px;
+}
+
+.trang-3 .x10h30::placeholder {
+  color: #86868699;
+}
+
+.trang-3 .frame-9 {
+  align-items: center;
+  display: inline-flex;
+  gap: 33px;
+  position: relative;
+}
+
+.trang-3 .ti {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.trang-3 .x24h {
+  background-color: transparent;
+  border: 0;
+  height: 38px;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: relative;
+  top: 4px;
+  width: 289px;
+}
+
+.trang-3 .x24h::placeholder {
+  color: #86868699;
+}
+
+.trang-3 .event-qu-khch-d-nh-tham-d {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 79px;
+  margin-top: 61px;
+  min-height: 38px;
+  min-width: 396px;
+  text-align: center;
+}
+
+.trang-3 .frame-container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 241px;
+  height: 345px;
+  margin-right: 93.0px;
+  margin-top: 31px;
+  min-width: 1007px;
+}
+
+.trang-3 .frame-11 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 425px;
+}
+
+.trang-3 .frame-11:hover {
+  transform: scale(1.1);
+}
+
+.trang-3 .image-19 {
+  height: 277.73px;
+  object-fit: cover;
+  position: relative;
+  width: 200px;
+}
+
+.trang-3 .n-tra-ti-pizza-4-ps-aeon-h-ng {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.trang-3 .frame-10 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 341px;
+}
+
+.trang-3 .frame-10:hover {
+  transform: scale(1.1);
+}
+
+.trang-3 .image-20 {
+  height: 277px;
+  object-fit: cover;
+  position: relative;
+  width: 277px;
+}
+
+.trang-3 .xem-phim-vng-t-linh-hn {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.trang-3 .frame-17 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-right: 119.0px;
+  margin-top: 106px;
+  position: relative;
+  width: 957px;
+}
+
+.trang-3 .kin-ng-gp-thm {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.trang-3 .frame-12 {
+  align-self: stretch;
+  height: 377px;
+  position: relative;
+  width: 100%;
+}
+
+.trang-3 .overlap-group {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 367px;
+  left: 10px;
+  min-width: 937px;
+  padding: 25px 40px;
+  position: relative;
+  top: 10px;
+}
+
+.trang-3 .gp-hong {
+  background-color: transparent;
+  border: 0;
+  height: 303px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  width: 848px;
+}
+
+.trang-3 .gp-hong::placeholder {
+  color: #86868699;
+}
+
+.trang-3 .submit-button {
+  align-items: center;
+  background-color: #ffc1e8;
+  border: 1px solid;
+  border-color: #ff7fc3;
+  border-radius: 30px;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 68px;
+  justify-content: center;
+  margin-left: 30.0px;
+  margin-top: 88px;
+  padding: 10px;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 130px;
+}
+
+.trang-3 .submit-button:hover {
+  transform: scale(1.1);
+}
+
+.trang-3 .oke {
+  -webkit-text-stroke: 1px #ff90d6;
+  color: var(--white);
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.trang-3 .image-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 77px;
+  margin-left: 19.0px;
+  margin-top: 42px;
+  min-width: 201px;
+}
+
+.trang-3 .image {
+  background-image: url(../img/image-4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 64px;
+  transition: all 0.2s ease;
+  width: 64px;
+}
+
+.trang-3 .image:hover {
+  transform: scale(1.1);
+}
+
+.trang-3 .image-1 {
+  background-image: url(../img/image-14@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 64px;
+  transition: all 0.2s ease;
+  width: 60px;
+}
+
+.trang-3 .image-1:hover {
+  transform: scale(1.1);
+}
+
+.trang-3 .image-17 {
+  height: 64px;
+  margin-left: 28px;
+  object-fit: cover;
+  width: 64px;
+}

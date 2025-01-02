@@ -1,0 +1,210 @@
+/* screen - page-2 */
+
+.page-2 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: 1024px;
+  padding: 18px 0;
+  width: 1440px;
+}
+
+.page-2 .group-2 {
+  height: 822px;
+  position: relative;
+  width: 1382px;
+}
+
+.page-2 .overlap-group {
+  border-radius: 50px;
+  height: 596px;
+  left: 128px;
+  position: absolute;
+  top: 226px;
+  width: 1126px;
+}
+
+.page-2 .view {
+  background-color: #ffecf8;
+  border-radius: 50px;
+  height: 596px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1126px;
+}
+
+.page-2 .knh-mi-bn {
+  left: 161px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 115px;
+}
+
+.page-2 .ti-d-sinh-nht-mnh-nm-24-tui {
+  left: 155px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 196px;
+  width: 880px;
+}
+
+.page-2 .thi-gian-th-7-ng {
+  left: 155px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 275px;
+  width: 880px;
+}
+
+.page-2 .name {
+  left: 418px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 115px;
+  width: 340px;
+}
+
+.page-2 .image-container {
+  align-items: center;
+  display: flex;
+  height: 117px;
+  left: 35px;
+  min-width: 1009px;
+  position: absolute;
+  top: -56px;
+}
+
+.page-2 .image-5 {
+  align-self: flex-end;
+  height: 64px;
+  object-fit: cover;
+  width: 64px;
+}
+
+.page-2 .image {
+  align-self: flex-start;
+  height: 64px;
+  margin-left: 220px;
+  object-fit: cover;
+  width: 64px;
+}
+
+.page-2 .image-7 {
+  height: 64px;
+  margin-left: 288px;
+  margin-top: 1.0px;
+  object-fit: cover;
+  width: 64px;
+}
+
+.page-2 .image-6 {
+  height: 64px;
+  margin-left: 245px;
+  margin-top: 11.0px;
+  object-fit: cover;
+  width: 64px;
+}
+
+.page-2 .image-8 {
+  height: 64px;
+  left: 1107px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 64px;
+}
+
+.page-2 .image-9 {
+  height: 64px;
+  left: -32px;
+  object-fit: cover;
+  position: absolute;
+  top: 190px;
+  width: 64px;
+}
+
+.page-2 .cat {
+  height: 64px;
+  left: 741px;
+  object-fit: cover;
+  position: absolute;
+  top: 89px;
+  width: 64px;
+}
+
+.page-2 .image-12 {
+  height: 128px;
+  left: 991px;
+  object-fit: cover;
+  position: absolute;
+  top: 212px;
+  width: 128px;
+}
+
+.page-2 .image-13 {
+  height: 256px;
+  left: 735px;
+  object-fit: cover;
+  position: absolute;
+  top: 298px;
+  width: 256px;
+}
+
+.page-2 .image-2 {
+  height: 174px;
+  left: 614px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 156px;
+}
+
+.page-2 .image-11 {
+  cursor: pointer;
+  height: 128px;
+  left: 1254px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.page-2 .image-14 {
+  cursor: pointer;
+  height: 128px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.page-2 .next-button {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 132px;
+  margin-right: 1.0px;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 127px;
+}
+
+.page-2 .next-button:hover {
+  transform: scale(1.1);
+}
+
+.page-2 .image-3 {
+  height: 132px;
+  object-fit: cover;
+  position: relative;
+  width: 126px;
+}

@@ -1,0 +1,89 @@
+/* screen - last-page */
+
+.last-page {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 1024px;
+  padding: 122px 129px;
+  width: 1440px;
+}
+
+.last-page .frame-15 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+}
+
+.last-page .thng-tin-ca-bn {
+  color: var(--black);
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 1090px;
+}
+
+.last-page .flex-row {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 498px;
+  margin-left: 4.0px;
+  min-width: 988px;
+}
+
+.last-page .image-21 {
+  align-self: center;
+  height: 128px;
+  margin-bottom: 42.0px;
+  object-fit: cover;
+  width: 128px;
+}
+
+.last-page .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 206px;
+  margin-left: 120px;
+  min-height: 434px;
+  width: 584px;
+}
+
+.last-page .image-23 {
+  height: 64px;
+  margin-right: 88.0px;
+  object-fit: cover;
+  width: 64px;
+}
+
+.last-page .title {
+  color: #c55390;
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 153px;
+  min-width: 564px;
+  position: relative;
+  text-align: center;
+}
+
+.last-page .image-24 {
+  align-self: flex-end;
+  height: 128px;
+  margin-left: 28px;
+  object-fit: cover;
+  width: 128px;
+}

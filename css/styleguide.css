@@ -1,0 +1,38 @@
+:root { 
+  --black: #000000;
+  --gunsmoke: #868686;
+  --white: #ffffff;
+ 
+  --font-size-l: 32px;
+  --font-size-m: 24px;
+  --font-size-xl: 36px;
+  --font-size-xxl: 48px;
+  --font-size-xxxl: 60px;
+  --font-size-xxxxl: 96px;
+ 
+  --font-family-labrada: "Labrada", Helvetica;
+  --font-family-museomoderno: "MuseoModerno", Helvetica;
+}
+.museomoderno-semi-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.museomoderno-semi-bold-black-32px {
+  color: var(--black);
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.museomoderno-semi-bold-gunsmoke-24px {
+  color: var(--gunsmoke);
+  font-family: var(--font-family-museomoderno);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
